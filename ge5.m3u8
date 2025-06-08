@@ -1,4 +1,4 @@
-#EXTM3U
-#EXTVLCOPT:http-refferer=https://shelfnoise.net/
-#EXTVLCOPT:http-origin=https://shelfnoise.net
-https://ubsrgdwjmenz65xqp3t2v9.cdnutter.net:8443/hls/s426q9grik.m3u8?s=jTHD1blROPpQY8-ErIED1Q&e=1749398082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fOr_lp2RyGY_YgZMwKm9oTELc71C-5c0Og&s" group-title="LIVE Final | Portugal VS Spain (3 pagi ini)",LIVE Final | Portugal VS Spain 3 (FHD)
+#EXTVLCOPT:http-referrer=https://stream196tp.com/
+#EXTVLCOPT:http-origin=https://stream196tp.com
+https://564.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=180.75.255.48&token=af7b35868330958ff0190904fa6ae74bf99fcb51-bc-1749407815-1749375415
