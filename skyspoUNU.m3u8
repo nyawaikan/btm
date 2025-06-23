@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://ott.premium-tv.org:80/live/wonton57/874893/89665.m3u8
