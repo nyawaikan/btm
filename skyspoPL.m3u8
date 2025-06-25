@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/78155.m3u8
