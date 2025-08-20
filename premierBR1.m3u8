@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/2d4ea6a6a4d6b220c14e5b2c6c7edc8f.m3u8
