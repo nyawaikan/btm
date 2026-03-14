@@ -207,26 +207,6 @@ https://ocnmovies-drm2-mcdn.tving.com/ocnmovies_drm/live5000.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
 https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2022/01/Crave1.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Crave 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a107945066f45a9af2c32ea88be60f4:df97e849d68479ec16e395feda7627d0
-https://live-crave.video.9c9media.com/137c6e2e72e1bf67b82614c7c9b216d6f3a8c8281748505659713/fe/f/crave/crave1/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave2.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Crave 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ac6eaaf0e5e4f94987cbb5b243b54e8:8bb3f2f421f6afd025fa46c784944ad6
-https://live-crave.video.9c9media.com/ab4332c60e19b6629129eeb38a2a6ac6db5df2571721750022187/fe/f/crave/crave2/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave3.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Crave 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eac7cd7979f04288bc335fc1d88fa344:0fca71cf91b3c4931ad3cf66c631c24c
-https://live-crave.video.9c9media.com/58def7d65f59ffaf995238981dd0e276d5a8fe8d1748593014588/fe/f/crave/crave3/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2022/01/Crave4.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Crave 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
-https://live-crave.video.9c9media.com/c5875a31f178e038f7cc572b1aa0defb996ce7171748593186018/fe/f/crave/crave4/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oFii7Ri.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -259,16 +239,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/98
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XICAoro.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Best Thriller
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
-
-
-#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",Flicks of Fury
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" group-title="MOVIES" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png",MAXSTREAM INDI
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
@@ -308,10 +278,7 @@ https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png" 
 #EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-title="MOVIES",Rakuten Action ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
-
-#EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png"
-#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-title="MOVIES",Rakuten British Films ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8  
 
 #EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png"
 #EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-title="MOVIES",Rakuten Comedy ᴴᴰ  
@@ -334,12 +301,4 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
   
-#EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png" 
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-title="MOVIES",Rakuten Romance ᴴᴰ  
-https://jmp2.uk/sam-GB2600014LQ.m3u8
-
-  
-#EXTINF:-1 group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png"
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="MOVIES" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
-https://jmp2.uk/sam-GB2600013BO.m3u8
 
