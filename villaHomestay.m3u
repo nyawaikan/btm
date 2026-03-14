@@ -300,5 +300,32 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
 #EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-title="MOVIES",Rakuten Top Movies ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
 
-  
+
+
+
+################# Travel tv #################
+
+
+#EXTINF:-1 tvg-id="65929" group-logo="https://m.media-amazon.com/images/I/71zSXhSvtSL.png" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/f0bc27857028a6531e33117e55213105.webp" group-title="Travel tv", HERITAGE-TOURISM-TV-ENG
+https://mix.drmlive.net/mix/xiaomi-65929.m3u8
+#EXTINF:-1 tvg-id="65918" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/2a90d4acc27bebe20217a0f6f0668baa.webp" group-title="Travel tv", HERITAGETV +
+https://mix.drmlive.net/mix/xiaomi-65918.m3u8
+#EXTINF:-1 tvg-id="66056" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/320ca4bbad84ddcd8f4169a227efce9c.webp" group-title="Travel tv", Spring Escape
+https://mix.drmlive.net/mix/xiaomi-66056.m3u8
+#EXTINF:-1 tvg-id="65957" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/f3b549a32a7f726e235e7fce7f029dc4.webp" group-title="Travel tv", Fish Tank
+https://mix.drmlive.net/mix/xiaomi-65957.m3u8
+#EXTINF:-1 tvg-id="65961" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/de54d2bc5771ad8b5c2620d16d7f8aa2.webp" group-title="Travel tv", Tranquil Thunderstorms
+https://mix.drmlive.net/mix/xiaomi-65961.m3u8
+#EXTINF:-1 tvg-id="65958" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/e23d1dcbdeab8420829066b4ea30b7e8.webp" group-title="Travel tv", Relaxing Rain
+https://mix.drmlive.net/mix/xiaomi-65958.m3u8
+#EXTINF:-1 tvg-id="65959" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/a6f891105cf0c923cd4f32a17621a32d.webp" group-title="Travel tv", Island Escape
+https://mix.drmlive.net/mix/xiaomi-65959.m3u8
+#EXTINF:-1 tvg-id="65916" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/cda49ca3b2f61cad6c9502593dc000b2.webp" group-title="Travel tv", 4K TRAVEL
+https://mix.drmlive.net/mix/xiaomi-65916.m3u8
+#EXTINF:-1 tvg-id="66159" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/4458cf82fb0983dc9e91d7695192aa02.webp" group-title="Travel tv", DroneTV
+https://mix.drmlive.net/mix/xiaomi-66159.m3u8
+#EXTINF:-1 tvg-id="66319" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/f6e2156ff7b5353ef981a0ccd3fe76c5.webp" group-title="Travel tv", Wild Nature
+https://mix.drmlive.net/mix/xiaomi-66319.m3u8
+#EXTINF:-1 tvg-id="66046" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/4386ce1f8229b007e655447e91ed958d.webp" group-title="Travel tv", NatureStream.tv
+https://mix.drmlive.net/mix/xiaomi-66046.m3u8
 
